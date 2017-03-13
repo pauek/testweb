@@ -11,15 +11,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "test-server/hello.go",
-			"settings":
-			{
-				"buffer_size": 1446,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -153,140 +144,11 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/home/pauek/UPC/src/test-server"
-	],
 	"file_history":
 	[
+		"/home/pauek/UPC/src/testweb/testweb.sublime-project",
+		"/home/pauek/UPC/src/testweb/server/hello.go",
 		"/home/pauek/UPC/src/kwidgin/kwidgin.py",
-		"/home/pauek/UPC/Assignatures/FI/Tests/Exams/Semana1.exam",
-		"/home/pauek/UPC/Assignatures/FI/Tests/Exams/Semana2.exam",
-		"/home/pauek/UPC/src/kwidgin/grade-server/grade-server.go",
-		"/home/pauek/UPC/src/kwidgin/grade-server/form.html",
-		"/home/pauek/UPC/src/kwidgin/grade-server.go",
-		"/home/pauek/UPC/Assignatures/FI/Tests/03. Expressions Booleanes/Desempaquetar Enteros/Desempaquetar Enteros 1.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/03. Expressions Booleanes/Desempaquetar Enteros/Desempaquetar Enteros 2.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/03. Expressions Booleanes/Desempaquetar Enteros/Desempaquetar Enteros 3.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/03. Expressions Booleanes/Desempaquetar Enteros/Desempaquetar Enteros 4.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/05. Iteraciones/While Simple.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/_build/tex/exam_0000.tex",
-		"/home/pauek/UPC/src/kwidgin/kwidgin/__init__.py",
-		"/home/pauek/UPC/Assignatures/FI/Tests/04. Alternatives/If Else If/If Else If 4 Error Compilación 2.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/04. Alternatives/If Else If/If Else If 2 No Braces.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/04. Alternatives/If Else If/If Else If 2.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/04. Alternatives/If Else If/If Else If 1 No Braces.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/04. Alternatives/If Else If/If Else If 3 No Braces.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/04. Alternatives/If Else If/If Else If 4 Error Compilación.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/04. Alternatives/If Else If/If Else If 1.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/04. Alternatives/If Else If/If Else If 3.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/Exams/Tema_04.exam",
-		"/home/pauek/UPC/Assignatures/FI/Tests/04. Alternatives/If Sin Llaves/Error de Compilación/If Sin Llaves Error Compilacion 4.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/04. Alternatives/If Sin Llaves/If Sin Llaves 4.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/04. Alternatives/If Sin Llaves/Error de Compilación/If Sin Llaves Error Compilacion 3.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/04. Alternatives/If Sin Llaves/Error de Compilación/If Sin Llaves Error Compilacion 2.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/04. Alternatives/If Sin Llaves/If Sin Llaves 1.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/04. Alternatives/If Sin Llaves/Error de Compilación/If Sin Llaves Error Compilacion 1.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/04. Alternatives/If Sin Llaves/If Sin Llaves 2.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/04. Alternatives/If Sin Llaves/If Sin Llaves 3.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/04. Alternatives/If Sin Llaves/If Sin Llaves Error Compilacion 4.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/04. Alternatives/If Sin Llaves/If Sin Llaves Error Compilacion 3.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/04. Alternatives/If Sin Llaves/If Sin Llaves Error Compilacion 2.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/04. Alternatives/If Sin Llaves/If Sin Llaves Error Compilacion 1.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/TEST_DRIVEN.txt",
-		"/home/pauek/UPC/Assignatures/FI/Tests/04. Alternatives/If Simple/RamaFalse/If2e.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/04. Alternatives/If Simple/RamaFalse/If2d.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/04. Alternatives/If Simple/RamaFalse/If2c.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/04. Alternatives/If Simple/RamaFalse/If2b.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/04. Alternatives/If Simple/RamaFalse/If2a.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/04. Alternatives/If Simple/NingunaRama/If3b.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/04. Alternatives/If Simple/NingunaRama/If3a.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/04. Alternatives/If Simple/Errores/IfSimple_Error5.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/04. Alternatives/If Simple/Errores/IfSimple_Error4.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/04. Alternatives/If Simple/Errores/IfSimple_Error3.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/04. Alternatives/If Simple/Errores/IfSimple_Error2.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/04. Alternatives/If Simple/Errores/IfSimple_Error1.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/04. Alternatives/If Sin Llaves/If Sin Llaves1.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/04. Alternatives/If Simple/RamaTrue/If1a.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/04. Alternatives/If Simple/RamaTrue/If1b.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/04. Alternatives/If Simple/RamaTrue/If1c.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/04. Alternatives/If Simple/RamaTrue/If1d.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/04. Alternatives/If Simple/RamaTrue/If1e.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/Lisp/4.1.Tuples/tuples_parametres_const",
-		"/home/pauek/UPC/Assignatures/FI/Tests/_build/tex/exam_0001.tex",
-		"/home/pauek/UPC/Assignatures/FI/Tests/_build/tex/exam_0002.tex",
-		"/home/pauek/UPC/Assignatures/FI/Tests/_build/tex/exam_0003.tex",
-		"/home/pauek/UPC/Assignatures/FI/Tests/_build/tex/exam_0004.tex",
-		"/home/pauek/UPC/Assignatures/FI/Tests/_build/tex/exam_0005.tex",
-		"/home/pauek/UPC/Assignatures/FI/Tests/_build/tex/exam_0006.tex",
-		"/home/pauek/UPC/Assignatures/FI/Tests/_build/tex/exam_0007.tex",
-		"/home/pauek/UPC/Assignatures/FI/Tests/_build/tex/exam_0008.tex",
-		"/home/pauek/UPC/Assignatures/FI/Tests/_build/tex/exam_0009.tex",
-		"/home/pauek/UPC/Assignatures/FI/Tests/_build/tex/exam_0010.tex",
-		"/home/pauek/UPC/Assignatures/FI/Tests/_build/tex/exam_0011.tex",
-		"/home/pauek/UPC/Assignatures/FI/Tests/_build/tex/exam_0012.tex",
-		"/home/pauek/UPC/Assignatures/FI/Tests/_build/tex/exam_0013.tex",
-		"/home/pauek/UPC/Assignatures/FI/Tests/_build/tex/exam_0014.tex",
-		"/home/pauek/UPC/Assignatures/FI/Tests/_build/tex/exam_0015.tex",
-		"/home/pauek/UPC/Assignatures/FI/Tests/_build/tex/exam_0016.tex",
-		"/home/pauek/UPC/Assignatures/FI/Tests/_build/tex/exam_0017.tex",
-		"/home/pauek/UPC/Assignatures/FI/Tests/_build/tex/exam_0018.tex",
-		"/home/pauek/UPC/Assignatures/FI/Tests/_build/tex/exam_0019.tex",
-		"/home/pauek/UPC/Assignatures/FI/Tests/_build/tex/exam_0020.tex",
-		"/home/pauek/UPC/Assignatures/FI/Tests/_build/tex/exam_0021.tex",
-		"/home/pauek/UPC/Assignatures/FI/Tests/_build/tex/exam_0022.tex",
-		"/home/pauek/UPC/Assignatures/FI/Tests/_build/tex/exam_0023.tex",
-		"/home/pauek/UPC/Assignatures/FI/Tests/_build/tex/exam_0024.tex",
-		"/home/pauek/UPC/Assignatures/FI/Tests/_build/tex/exam_0025.tex",
-		"/home/pauek/UPC/Assignatures/FI/Tests/_build/tex/exam_0026.tex",
-		"/home/pauek/UPC/Assignatures/FI/Tests/_build/tex/exam_0027.tex",
-		"/home/pauek/UPC/Assignatures/FI/Tests/_build/tex/exam_0028.tex",
-		"/home/pauek/UPC/Assignatures/FI/Tests/_build/tex/exam_0029.tex",
-		"/home/pauek/UPC/Assignatures/FI/Tests/_build/tex/exam_0030.tex",
-		"/home/pauek/UPC/Assignatures/FI/Tests/_build/tex/exam_0031.tex",
-		"/home/pauek/UPC/Assignatures/FI/Tests/_build/tex/exam_0032.tex",
-		"/home/pauek/UPC/Assignatures/FI/Tests/_build/tex/exam_0033.tex",
-		"/home/pauek/UPC/Assignatures/FI/Tests/_build/tex/exam_0034.tex",
-		"/home/pauek/UPC/Assignatures/FI/Tests/_build/tex/exam_0035.tex",
-		"/home/pauek/UPC/Assignatures/FI/Tests/_build/tex/exam_0036.tex",
-		"/home/pauek/UPC/Assignatures/FI/Tests/_build/tex/exam_0037.tex",
-		"/home/pauek/UPC/Assignatures/FI/Tests/_build/tex/exam_0038.tex",
-		"/home/pauek/UPC/Assignatures/FI/Tests/_build/tex/exam_0039.tex",
-		"/home/pauek/UPC/Assignatures/FI/Tests/04. Alternatives/FIXME Flux If.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/Exams/Tema_02.exam",
-		"/home/pauek/UPC/Assignatures/FI/Tests/Exams/Tema_03.exam",
-		"/home/pauek/UPC/Assignatures/FI/Tests/Exams/Tema_01.exam",
-		"/home/pauek/UPC/Assignatures/FI/Tests/05. Iteracions/While Simple/../While1.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/05. Iteraciones/Cifras/BucleInfinito/BucleInfinito2.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/05. Iteraciones/Cifras/BucleInfinito/BucleInfinito1.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/05. Iteraciones/Cifras/NoSuma/NoSuma2.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/05. Iteraciones/Cifras/NoSuma/NoSuma1.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/05. Iteraciones/Cifras/SumaCifras/SumaCifras2.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/05. Iteraciones/Cifras/NumCifras/NumCifras4.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/05. Iteraciones/Cifras/NumCifras/NumCifras1.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/Exams/test.cc",
-		"/home/pauek/src/pauek/c++/minicc/file.cc",
-		"/home/pauek/UPC/src/kwidgin/grade.cc",
-		"/home/pauek/UPC/Assignatures/FI/Tests/Exams/debug.exam",
-		"/home/pauek/UPC/Assignatures/FI/Tests/03. Expressions Booleanes/Empaquetar Enteros/Empaquetar Enteros 1.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/03. Expressions Booleanes/Desempaquetar Enteros/Desempaquetar Enteros 5.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/03. Expressions Booleanes/Desempaquetar Enteros.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/03. Expressions Booleanes/Empaquetar Enteros 6.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/03. Expressions Booleanes/Empaquetar Enteros 5.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/03. Expressions Booleanes/Empaquetar Enteros 4.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/03. Expressions Booleanes/Empaquetar Enteros 3.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/03. Expressions Booleanes/Empaquetar Enteros 2.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/03. Expressions Booleanes/Empaquetar Enteros 1.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/03. Expressions Booleanes/Empaquetar Enteros 7.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/03. Expressions Booleanes/Avaluar OR i NOT.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/03. Expressions Booleanes/Avaluar AND i NOT.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/FI-tests.sublime-project",
-		"/home/pauek/UPC/Assignatures/FI/Tests/01. Primers Programes/Comentarios/Comentarios3.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/01. Primers Programes/Comentarios/Comentarios1.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/02. Expressions/Codigo ASCII.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/02. Expressions/char Conversión.trst",
-		"/home/pauek/UPC/Assignatures/FI/Tests/Exams/01.exam",
-		"/home/pauek/UPC/Assignatures/FI/Tests/01. Primers Programes/Comentarios1.trst"
 	],
 	"find":
 	{
@@ -458,37 +320,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "test-server/hello.go",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1446,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								121,
-								121
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Go/Go.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -536,7 +369,7 @@
 		"height": 106.0
 	},
 	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
-	"project": "test-server.sublime-project",
+	"project": "testweb.sublime-project",
 	"replace":
 	{
 		"height": 52.0

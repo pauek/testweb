@@ -2,10 +2,12 @@
 	"folders":
 	[
 		{
-			"path": "test-server"
+			"path": "server",
+         "file_exclude_patterns": [".gitignore"],
 		},
       {
-         "path": "test-push"
+         "path": "push",
+         "file_exclude_patterns": [".gitignore", "test-push"],
       }
 	]
 }
